@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hajar El bahili</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">Software Engineer | Java • Spring Boot • React • Node.js </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
